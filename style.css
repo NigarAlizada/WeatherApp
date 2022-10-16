@@ -80,3 +80,11 @@ h1.temp {
 .weather.loading {
   display: none;
 }
+
+
+@media (max-width: 760px) {
+  .card {
+    width: 90%;
+    padding: 1.5rem;
+  }
+}
